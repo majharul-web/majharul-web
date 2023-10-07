@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majharul-web&label=Profile%20views&color=0e75b6&style=flat" alt="majharul-web" /> </p>
 
-- 🔭 I’m currently working at [Lskit](https://lskit.com/)
+- 🔭 I’m currently working at [Citycom International Travel Agency (Pvt.) Ltd]([https://lskit.com/](https://citycomtravel.com/))
 
 - 🌱 I’m currently learning **Typescript,Next.js,Prisma,Express.js,Mongoose,MongoDb,Postgresql**
 
