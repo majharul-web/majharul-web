@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm MD Majharul Islam</h1>
-<h3 align="center">Full-Stack Developer | Frontend-Focused | Crafting Seamless User Experiences & Scalable Solutionsper from India</h3>
+<h3 align="center">Full-Stack Developer | Frontend-Focused | Crafting Seamless User Experiences & Scalable Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majharul-web&label=Profile%20views&color=0e75b6&style=flat" alt="majharul-web" /> </p>
 
-- 🔭 I’m currently working on [Citycom International Travel Agency (Pvt.) Ltd](https://citycomtravel.com/)
+- 🔭 I’m currently working at [Citycom International Travel Agency (Pvt.) Ltd](https://citycomtravel.com/)
+
+- 🔭 I’m currently working on [AeroTrip](https://b2b.aerotrip.net/)
 
 - 🌱 I’m currently learning **DSA with C++,Typescript,Next.js,Prisma,Express.js,Mongoose,MongoDb,Postgresql**
 
@@ -15,12 +17,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-majharul-islam-a42b63200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-majharul-islam-a42b63200" height="30" width="40" /></a>
+
 <a href="https://codeforces.com/profile/majharul-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="majharul-web" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/majharul-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="majharul-web" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@majharuljony163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@majharuljony163" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15337229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15337229" height="30" width="40" /></a>
 <a href="https://fb.com/fb.majharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.majharul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-majharul-islam-a42b63200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-majharul-islam-a42b63200" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
