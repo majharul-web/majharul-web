@@ -36,6 +36,8 @@
 
 #### 📷 [Photo Book (Photo Gallery Application)](https://photo-book-mi.netlify.app/)
 
+- **Code**:[Frontend](https://github.com/majharul-web/photo-book-client),[Backend](https://github.com/majharul-web/photo-book-server)
+
 - **Technologies**: React, Redux, TypeScript, Tailwind CSS, Firebase, MongoDB, Express.js
 - **Highlights**:
   - Built a photo gallery with features for browsing, liking, and commenting.
