@@ -10,7 +10,7 @@
   - [AeroTrip (B2B OTA Platform)](https://b2b.aerotrip.net)
   - [Automart (E-commerce Platform)](https://automart.com.bd)
   - [Photo Book (Photo Gallery Application)](https://photo-book-mi.netlify.app)
-- 🌱 **Currently Learning**: TypeScript, Prisma, DSA with C++, PostgreSQL, Mongoose, and Next.js
+- 🌱 **Currently Learning**: DSA with C++,Typescript,Next.js,Prisma,Express.js,Mongoose,MongoDb,Postgresql
 - 👨‍💻 **Portfolio**: [majharul-islam.netlify.app](https://majharul-islam.netlify.app)
 - 📄 **Resume**: [View Here](https://drive.google.com/file/d/1s-5dAuqEBIiFd99p67RcLK7feC6xyxpN/view)
 - 📫 **Reach Me At**: [majharul.live@gmail.com](mailto:majharul.live@gmail.com)
@@ -36,7 +36,7 @@
 
 #### 📷 [Photo Book (Photo Gallery Application)](https://photo-book-mi.netlify.app/)
 
-- **Code**:[Frontend](https://github.com/majharul-web/photo-book-client) | [Backend](https://github.com/majharul-web/photo-book-server)
+- **Code** : [Frontend](https://github.com/majharul-web/photo-book-client) || [Backend](https://github.com/majharul-web/photo-book-server)
 - **Technologies**: React, Redux, TypeScript, Tailwind CSS, Firebase, MongoDB, Express.js
 - **Highlights**:
   - Built a photo gallery with features for browsing, liking, and commenting.
@@ -68,8 +68,8 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://codeforces.com/profile/majharul-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="majharul-web" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/majharul-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="majharul-web" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/majharul-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="majharul-web" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@majharuljony163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@majharuljony163" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15337229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15337229" height="30" width="40" /></a>
 <a href="https://fb.com/fb.majharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.majharul" height="30" width="40" /></a>
