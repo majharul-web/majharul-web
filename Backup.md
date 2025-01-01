@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majharul-web" alt="majharul-web" /></a> </p>
 
-- 🔭 I’m currently working on [Citycom International Travel Agency (Pvt.) Ltd](https://citycomtravel.com/)
+- 🔭 I’m currently working at [Citycom International Travel Agency (Pvt.) Ltd](https://citycomtravel.com/)
+
+- 🔭 I’m currently working on [AeroTrip](https://b2b.aerotrip.net/)
 
 - 🌱 I’m currently learning **DSA with C++,Typescript,Next.js,Prisma,Express.js,Mongoose,MongoDb,Postgresql**
 
@@ -52,6 +54,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=majharul-web&show_icons=true&locale=en&layout=compact" alt="majharul-web" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majharul-web&show_icons=true&locale=en&layout=compact" alt="majharul-web" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majharul-web&show_icons=true&locale=en" alt="majharul-web" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majharul-web&" alt="majharul-web" /></p>
