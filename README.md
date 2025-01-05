@@ -10,7 +10,7 @@
   - [AeroTrip (B2B OTA Platform)](https://b2b.aerotrip.net)
   - [Automart (E-commerce Platform)](https://automart.com.bd)
   - [Photo Book (Photo Gallery Application)](https://photo-book-mi.netlify.app)
-- 🌱 **Currently Learning**: DSA with C++,Typescript,Next.js,Prisma,Express.js,Mongoose,MongoDb,Postgresql
+- 🌱 **Currently Learning**: DSA with C++, Typescript, Next.js, Node.js, Express.js, MongoDB, Mongoose, Postgresql, Prisma.
 - 👨‍💻 **Portfolio**: [majharul-islam.netlify.app](https://majharul-islam.netlify.app)
 - 📄 **Resume**: [View Here](https://drive.google.com/file/d/1s-5dAuqEBIiFd99p67RcLK7feC6xyxpN/view)
 - 📫 **Reach Me At**: [majharul.live@gmail.com](mailto:majharul.live@gmail.com)
