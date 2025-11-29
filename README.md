@@ -60,9 +60,9 @@ _Jan 2022 – Aug 2022_
 
 ---
 
-### 🌍 Projects
+### 💻 Projects
 
-#### [Travelkeep (Travel Management SaaS)](https://travelkeep.app/)
+#### 🌍 [Travelkeep (Travel Management SaaS)](https://travelkeep.app/)
 
 **Technologies**: Golang, TypeScript, Next.js, Redux, RTK Query, Tailwind CSS, Formik, Yup
 
@@ -78,7 +78,7 @@ _Jan 2022 – Aug 2022_
 
 ---
 
-#### [Shohorbari – Rental Management Platform (Personal)](https://b2b.aerotrip.net)
+#### 🛒 [Shohorbari – Rental Management Platform (Personal)](https://b2b.aerotrip.net)
 
 **Technologies**: React.js, Tailwind CSS, Django REST Framework, PostgreSQL, JWT Authentication, SSLCommerz (sandbox)
 
