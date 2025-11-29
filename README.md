@@ -9,10 +9,9 @@
 
 - 🔭 **Currently Working At**: [Citycom International Travel Agency (Pvt.) Ltd](https://citycomtravel.com/)
 - 🚀 **Recent Projects**:
-  - [Travelkeep (Travel Management SaaS)](https://majharul-islam.netlify.app)
-  - [Shohorbari (Rental Management Platform)](https://shohorbari.example.com)
-  - [Photo Book (Photo Sharing Platform)](https://photo-book-mi.netlify.app)
-- 🌱 **Currently Learning**: Golang,Python(Django),Docker,Frontend Animation Library etc.
+  - [Travelkeep (Travel Management SaaS)](https://travelkeep.app/)
+  - [Shohorbari (Rental Management Platform)](https://shohorbari.vercel.app/)
+- 🌱 **Currently Learning**: Golang, Python(Django), Docker, Frontend Animation Library(Framer Motion, GSAP, Lottie) etc.
 - 👨‍💻 **Portfolio**: [majharul-islam.netlify.app](https://majharul-islam.netlify.app)
 - 📄 **Resume**: [View Here](https://drive.google.com/file/d/1s-5dAuqEBIiFd99p67RcLK7feC6xyxpN/view)
 - 📫 **Reach Me At**: [majharul.live@gmail.com](mailto:majharul.live@gmail.com)
@@ -63,7 +62,7 @@ _Jan 2022 – Aug 2022_
 
 ### 🌍 Projects
 
-#### Travelkeep – Travel Management SaaS
+#### [Travelkeep (Travel Management SaaS)](https://travelkeep.app/)
 
 **Technologies**: Golang, TypeScript, Next.js, Redux, RTK Query, Tailwind CSS, Formik, Yup
 
@@ -79,7 +78,7 @@ _Jan 2022 – Aug 2022_
 
 ---
 
-#### Shohorbari – Rental Management Platform (Personal)
+#### [Shohorbari – Rental Management Platform (Personal)](https://b2b.aerotrip.net)
 
 **Technologies**: React.js, Tailwind CSS, Django REST Framework, PostgreSQL, JWT Authentication, SSLCommerz (sandbox)
 
