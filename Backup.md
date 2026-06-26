@@ -1,74 +1,126 @@
 <h1 align="center">Hi 👋, I'm MD Majharul Islam</h1>
 <h3 align="center">Full-Stack Developer | Frontend-Focused | Crafting Seamless User Experiences & Scalable Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majharul-web&label=Profile%20views&color=0e75b6&style=flat" alt="majharul-web" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=majharul-web&label=Profile%20views&color=0e75b6&style=flat" alt="majharul-web" />
+</p>
 
 ---
 
 - 🔭 **Currently Working At**: [Citycom International Travel Agency (Pvt.) Ltd](https://citycomtravel.com/)
 - 🚀 **Recent Projects**:
-  - [AeroTrip (B2B OTA Platform)](https://b2b.aerotrip.net)
-  - [Automart (E-commerce Platform)](https://automart.com.bd)
-  - [Photo Book (Photo Gallery Application)](https://photo-book-mi.netlify.app)
-- 🌱 **Currently Learning**: TypeScript, Prisma, DSA with C++, PostgreSQL, Mongoose, and Next.js
+  - [Travelkeep (Travel Management SaaS)](https://travelkeep.app/)
+  - [Shohorbari (Rental Management Platform)](https://shohorbari.vercel.app/)
+- 🌱 **Currently Learning**: Golang, Python(Django), Docker, Frontend Animation Library(Framer Motion, GSAP, Lottie) etc.
 - 👨‍💻 **Portfolio**: [majharul-islam.netlify.app](https://majharul-islam.netlify.app)
 - 📄 **Resume**: [View Here](https://drive.google.com/file/d/1s-5dAuqEBIiFd99p67RcLK7feC6xyxpN/view)
 - 📫 **Reach Me At**: [majharul.live@gmail.com](mailto:majharul.live@gmail.com)
 
 ---
 
+### 💻 Professional Summary
+
+Results-driven Fullstack (Frontend-focused) Developer with 3.5+ years of experience building scalable, high-performing web applications using Next.js, React, TypeScript, Redux, and Tailwind CSS. Skilled at transforming complex business needs into clean, intuitive, and responsive interfaces while ensuring maintainability and performance. Experienced across OTA platforms, e-commerce systems, and enterprise dashboards—improving workflow efficiency and user experience.
+
+Recently expanded backend expertise with Python, Django, Node.js, Express.js, SQL, MongoDB, and Golang (Gin + GORM), contributing to backend API development and optimizing data processing performance.
+
+---
+
+### 🏢 Experience
+
+**Fullstack Developer | Citycom Travel | Dhaka, Bangladesh**  
+_Oct 2025 – Present_
+
+**Frontend Developer | Citycom Travel | Dhaka, Bangladesh**  
+_Oct 2023 – Oct 2025_
+
+- Built and optimized UI modules using Next.js, TypeScript, and Tailwind CSS, boosting workflow efficiency by 25%
+- Designed reusable components, custom paginations, and advanced filtering systems using Formik + Yup
+- Integrated REST APIs with RTK Query and Redux Toolkit, enhancing data-fetching reliability
+- Developed key OTA features: flight booking, PNR management, group ticketing, issuing, voiding, and cancellations
+- Improved authentication security via JWT-based access control
+
+**Backend Contributions (Recent):**
+
+- Built production-grade APIs using Golang, Gin, GORM, and MySQL
+- Implemented optimized queries, validation middleware, and secure endpoints
+
+**Frontend Developer (Remote) | LSKIT | Khulna, Bangladesh**  
+_Sep 2022 – Jul 2023_
+
+- Enhanced UI and performance for e-commerce platform using React + Redux
+- Developed shopping cart, checkout flow, and bKash payment integration
+- Implemented responsive layouts and chat features
+
+**Junior Software Engineer | Xtreme Solution | Chattogram, Bangladesh**  
+_Jan 2022 – Aug 2022_
+
+- Contributed to CloudOne React Native app and Automart e-commerce platform
+- Developed backend reporting modules and Laravel enhancements
+
+---
+
 ### 💻 Projects
 
-#### 🌍 [AeroTrip (B2B OTA Platform)](https://b2b.aerotrip.net)
+#### 🌍 [Travelkeep (Travel Management SaaS)](https://travelkeep.app/)
 
-- **Technologies**: TypeScript, Next.js, Redux, RTK Query, Tailwind CSS, Formik, Yup
-- **Highlights**:
-  - Designed responsive interfaces for agent registration, login, and traveler management.
-  - Built ticket booking features with add-ons like baggage and food services.
-  - Integrated GDS airline data with filtering and infinite scrolling for a seamless experience.
+**Technologies**: Golang, TypeScript, Next.js, Redux, RTK Query, Tailwind CSS, Formik, Yup
 
-#### 🛒 [Automart (E-commerce Platform)](https://automart.com.bd/)
+- Engineered responsive interfaces for agent onboarding, ticket issuing, voiding, and cancellations
+- Integrated GDS airline data with filtering, infinite scrolling, and optimized API querying
+- Reduced form-related errors by 35% via Formik/Yup validations
+- Delivered scalable UI used daily by 100+ travel agencies
 
-- **Technologies**: React, jQuery, PHP (Laravel), MySQL, Bootstrap
-- **Highlights**:
-  - Developed a product catalog, shopping cart, and checkout process.
-  - Integrated custom modals for order confirmation and backend order management.
+**Backend Contribution:**
 
-#### 📷 [Photo Book (Photo Gallery Application)](https://photo-book-mi.netlify.app/)
+- Developed APIs in Golang (Gin + GORM) for agent/vendor modules, accounting ledger, and lead management
+- Built bulk account creation endpoints with optimized batch processing (up to 5,000 accounts)
 
-- **Technologies**: React, Redux, TypeScript, Tailwind CSS, Firebase, MongoDB, Express.js
-- **Highlights**:
-  - Built a photo gallery with features for browsing, liking, and commenting.
-  - Integrated secure authentication with Google and email login using Firebase.
+---
+
+#### 🛒 [Shohorbari – Rental Management Platform (Personal)](https://b2b.aerotrip.net)
+
+**Technologies**: React.js, Tailwind CSS, Django REST Framework, PostgreSQL, JWT Authentication, SSLCommerz (sandbox)
+
+- Developed full-stack rental marketplace with authentication, rental CRUD, and request workflows
+- Implemented search, pagination, and admin dashboard for ad/request management
+- Integrated Django REST + PostgreSQL for backend operations
+- Added SSLCommerz sandbox payments for end-to-end transaction simulation
 
 ---
 
 ### 🛠️ Skills & Tools
 
-#### Frontend:
+**Frontend**: React.js, Next.js, Redux Toolkit, RTK Query, Formik, Yup, Tailwind CSS, Bootstrap  
+**Backend**: Golang, Django, Node.js, Express.js, JWT, Microservices (Basic)  
+**Databases**: MongoDB, PostgreSQL (Basic), MySQL, Firebase  
+**Languages**: JavaScript, TypeScript, Python, Golang, C, C++  
+**Tools & Platforms**: Git, Docker, Linux, Jira, Slack, VS Code, Vercel, Netlify  
+**Soft Skills**: Leadership · Teamwork · Problem-Solving · Communication · Adaptability
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS, Sass
-- **Frameworks & Libraries**: React, Next.js, Redux (RTK Query, Redux-Toolkit), Formik, Yup, Tailwind CSS, Bootstrap
+---
 
-#### Backend:
+### 🎓 Education
 
-- **Languages**: Node.js, Express.js
-- **Databases**: MongoDB, PostgreSQL, MySQL
+**Diploma in Computer Engineering | Dinajpur Polytechnic Institute**  
+_CGPA: 3.92 (2016 – 2021)_
 
-#### DevOps & Tools:
+---
 
-- **Version Control**: Git
-- **Platforms**: Docker, Linux
-- **Design Tools**: Figma
-- **Communication**: JIRA, Slack
+### 🏆 Achievements
+
+- Improved OTA workflow efficiency by 30% through optimized UI/UX and API integrations
+- Built production-ready Golang (Gin + GORM) APIs with bulk Excel import for 5,000+ accounts
+- Delivered full-stack projects with cloud deployment and scalable architecture
+- Ranked 2nd in department with CGPA 3.92
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://codeforces.com/profile/majharul-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="majharul-web" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/majharul-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="majharul-web" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/majharul-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="majharul-web" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@majharuljony163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@majharuljony163" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15337229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15337229" height="30" width="40" /></a>
 <a href="https://fb.com/fb.majharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.majharul" height="30" width="40" /></a>
