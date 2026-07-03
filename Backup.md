@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Majharul Islam</h1>
-<h3 align="center">Full-Stack Developer | Frontend-Focused | Crafting Seamless User Experiences & Scalable Solutions</h3>
+<h3 align="center">Full-Stack Developer | Crafting Seamless User Experiences & Scalable Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=majharul-web&label=Profile%20views&color=0e75b6&style=flat" alt="majharul-web" />
@@ -7,12 +7,12 @@
 
 ---
 
-- 🔭 **Currently Working At**: [Citycom International Travel Agency (Pvt.) Ltd](https://citycomtravel.com/)
+- 🔭 **Currently Working At**: [LeanCore Technologies](https://leancore.net/)
 - 🚀 **Recent Projects**:
   - [Travelkeep (Travel Management SaaS)](https://travelkeep.app/)
   - [Shohorbari (Rental Management Platform)](https://shohorbari.vercel.app/)
 - 🌱 **Currently Learning**: Golang, Python(Django), Docker, Frontend Animation Library(Framer Motion, GSAP, Lottie) etc.
-- 👨‍💻 **Portfolio**: [majharul-islam.netlify.app](https://majharul-islam.netlify.app)
+- 👨‍💻 **Portfolio**: [majharul.vercel.app](https://majharul.vercel.app/)
 - 📄 **Resume**: [View Here](https://drive.google.com/file/d/1s-5dAuqEBIiFd99p67RcLK7feC6xyxpN/view)
 - 📫 **Reach Me At**: [majharul.live@gmail.com](mailto:majharul.live@gmail.com)
 
@@ -20,7 +20,7 @@
 
 ### 💻 Professional Summary
 
-Results-driven Fullstack (Frontend-focused) Developer with 3.5+ years of experience building scalable, high-performing web applications using Next.js, React, TypeScript, Redux, and Tailwind CSS. Skilled at transforming complex business needs into clean, intuitive, and responsive interfaces while ensuring maintainability and performance. Experienced across OTA platforms, e-commerce systems, and enterprise dashboards—improving workflow efficiency and user experience.
+Results-driven Fullstack (Frontend-focused) Developer with 4 years of experience building scalable, high-performing web applications using Next.js, React, TypeScript, Redux, and Tailwind CSS. Skilled at transforming complex business needs into clean, intuitive, and responsive interfaces while ensuring maintainability and performance. Experienced across OTA platforms, e-commerce systems, and enterprise dashboards—improving workflow efficiency and user experience.
 
 Recently expanded backend expertise with Python, Django, Node.js, Express.js, SQL, MongoDB, and Golang (Gin + GORM), contributing to backend API development and optimizing data processing performance.
 
@@ -28,10 +28,10 @@ Recently expanded backend expertise with Python, Django, Node.js, Express.js, SQ
 
 ### 🏢 Experience
 
-**Fullstack Developer | Citycom Travel | Dhaka, Bangladesh**  
+**Fullstack Developer | LeanCore Technologies | Dhaka, Bangladesh**  
 _Oct 2025 – Present_
 
-**Frontend Developer | Citycom Travel | Dhaka, Bangladesh**  
+**Frontend Developer | LeanCore Technologies | Dhaka, Bangladesh**  
 _Oct 2023 – Oct 2025_
 
 - Built and optimized UI modules using Next.js, TypeScript, and Tailwind CSS, boosting workflow efficiency by 25%

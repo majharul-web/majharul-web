@@ -1,162 +1,176 @@
-<h1 align="center">Hi 👋, I'm MD Majharul Islam</h1>
-<h3 align="center">Full-Stack Developer | Crafting Seamless User Experiences & Scalable Solutions</h3>
+<h1 align="center">MD Majharul Islam</h1>
+<p align="center"><strong>Full-Stack Developer</strong> • Frontend-focused • Building scalable products with clean UX</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=majharul-web&label=Profile%20views&color=0e75b6&style=flat" alt="majharul-web" />
+  <a href="https://majharul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/file/d/1s-5dAuqEBIiFd99p67RcLK7feC6xyxpN/view"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:majharul.live@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/md-majharul-islam-a42b63200"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=majharul-web&label=Profile%20views&color=0f766e&style=flat" alt="majharul-web profile views" />
 </p>
 
 ---
 
-- 🔭 **Currently Working At**: [LeanCore Technologies](https://leancore.net/)
-- 🚀 **Recent Projects**:
-  - [Travelkeep (Travel Management SaaS)](https://travelkeep.app/)
-  - [Shohorbari (Rental Management Platform)](https://shohorbari.vercel.app/)
-- 🌱 **Currently Learning**: Golang, Python(Django), Docker, Frontend Animation Library(Framer Motion, GSAP, Lottie) etc.
-- 👨‍💻 **Portfolio**: [majharul-islam.netlify.app](https://majharul-islam.netlify.app)
-- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1s-5dAuqEBIiFd99p67RcLK7feC6xyxpN/view)
-- 📫 **Reach Me At**: [majharul.live@gmail.com](mailto:majharul.live@gmail.com)
+## About me
+
+I’m a **Full-Stack Developer with 4+ years of experience** building modern web applications across **travel-tech, e-commerce, rental platforms, and internal business systems**.
+
+My core strength is turning complex workflows into **fast, reliable, and intuitive user experiences** using **Next.js, React, TypeScript, Redux, and Tailwind CSS**. More recently, I’ve also been contributing on the backend with **Golang, Django, Node.js, Express.js, MySQL, PostgreSQL, and MongoDB**.
+
+I’m especially interested in roles where I can contribute to:
+- scalable product development
+- frontend architecture and UX quality
+- API integration and backend collaboration
+- performance, maintainability, and business impact
 
 ---
 
-### 💻 Professional Summary
+## Quick snapshot
 
-Results-driven Fullstack (Frontend-focused) Developer with 4 years of experience building scalable, high-performing web applications using Next.js, React, TypeScript, Redux, and Tailwind CSS. Skilled at transforming complex business needs into clean, intuitive, and responsive interfaces while ensuring maintainability and performance. Experienced across OTA platforms, e-commerce systems, and enterprise dashboards—improving workflow efficiency and user experience.
-
-Recently expanded backend expertise with Python, Django, Node.js, Express.js, SQL, MongoDB, and Golang (Gin + GORM), contributing to backend API development and optimizing data processing performance.
-
----
-
-### 🏢 Experience
-
-**Fullstack Developer | LeanCore Technologies | Dhaka, Bangladesh**  
-_Oct 2025 – Present_
-
-**Frontend Developer | LeanCore Technologies | Dhaka, Bangladesh**  
-_Oct 2023 – Oct 2025_
-
-- Built and optimized UI modules using Next.js, TypeScript, and Tailwind CSS, boosting workflow efficiency by 25%
-- Designed reusable components, custom paginations, and advanced filtering systems using Formik + Yup
-- Integrated REST APIs with RTK Query and Redux Toolkit, enhancing data-fetching reliability
-- Developed key OTA features: flight booking, PNR management, group ticketing, issuing, voiding, and cancellations
-- Improved authentication security via JWT-based access control
-
-**Backend Contributions (Recent):**
-
-- Built production-grade APIs using Golang, Gin, GORM, and MySQL
-- Implemented optimized queries, validation middleware, and secure endpoints
-
-**Frontend Developer (Remote) | LSKIT | Khulna, Bangladesh**  
-_Sep 2022 – Jul 2023_
-
-- Enhanced UI and performance for e-commerce platform using React + Redux
-- Developed shopping cart, checkout flow, and bKash payment integration
-- Implemented responsive layouts and chat features
-
-**Junior Software Engineer | Xtreme Solution | Chattogram, Bangladesh**  
-_Jan 2022 – Aug 2022_
-
-- Contributed to CloudOne React Native app and Automart e-commerce platform
-- Developed backend reporting modules and Laravel enhancements
+- **Current Role:** Fullstack Developer at [LeanCore Technologies](https://leancore.net/)
+- **Previous Role:** Frontend Developer at LeanCore Technologies
+- **Location:** Dhaka, Bangladesh
+- **Portfolio:** [majharul.vercel.app](https://majharul.vercel.app/)
+- **Resume:** [View resume](https://drive.google.com/file/d/1s-5dAuqEBIiFd99p67RcLK7feC6xyxpN/view)
+- **Email:** [majharul.live@gmail.com](mailto:majharul.live@gmail.com)
+- **Currently Learning:** Golang, Django, Docker, Framer Motion, GSAP, Lottie
 
 ---
 
-### 💻 Projects
+## What I bring
 
-#### 🌍 [Travelkeep (Travel Management SaaS)](https://travelkeep.app/)
+- Build responsive, production-ready interfaces with **Next.js, React, TypeScript, and Tailwind CSS**
+- Design reusable UI systems, advanced forms, filtering flows, and data-heavy dashboards
+- Integrate REST APIs with **Redux Toolkit** and **RTK Query** for reliable state and data fetching
+- Contribute to backend systems with **Golang (Gin + GORM)**, **Django**, and **Node.js/Express.js**
+- Focus on code quality, usability, and business outcomes—not just shipping features
 
-**Technologies**: Golang, TypeScript, Next.js, Redux, RTK Query, Tailwind CSS, Formik, Yup
+---
 
-- Engineered responsive interfaces for agent onboarding, ticket issuing, voiding, and cancellations
+## Impact highlights
+
+- Improved OTA workflow efficiency by **25%+** through optimized UI modules and better product flows
+- Reduced form-related errors by **35%** using stronger validation patterns with **Formik + Yup**
+- Built backend processes that supported **bulk account creation up to 5,000 records**
+- Delivered product features used by **100+ travel agencies** in day-to-day operations
+
+---
+
+## Featured projects
+
+### [Travelkeep — Travel Management SaaS](https://travelkeep.app/)
+**Tech:** Golang, TypeScript, Next.js, Redux, RTK Query, Tailwind CSS, Formik, Yup
+
+- Built responsive workflows for onboarding, ticket issuing, voiding, and cancellations
 - Integrated GDS airline data with filtering, infinite scrolling, and optimized API querying
-- Reduced form-related errors by 35% via Formik/Yup validations
-- Delivered scalable UI used daily by 100+ travel agencies
+- Developed backend APIs for agent/vendor modules, accounting ledger, and lead management
+- Helped deliver a scalable travel product used by **100+ agencies**
 
-**Backend Contribution:**
+### [Shohorbari — Rental Management Platform](https://shohorbari.vercel.app/)
+**Tech:** React.js, Tailwind CSS, Django REST Framework, PostgreSQL, JWT Authentication, SSLCommerz
 
-- Developed APIs in Golang (Gin + GORM) for agent/vendor modules, accounting ledger, and lead management
-- Built bulk account creation endpoints with optimized batch processing (up to 5,000 accounts)
-
----
-
-#### 🛒 [Shohorbari – Rental Management Platform (Personal)](https://b2b.aerotrip.net)
-
-**Technologies**: React.js, Tailwind CSS, Django REST Framework, PostgreSQL, JWT Authentication, SSLCommerz (sandbox)
-
-- Developed full-stack rental marketplace with authentication, rental CRUD, and request workflows
-- Implemented search, pagination, and admin dashboard for ad/request management
-- Integrated Django REST + PostgreSQL for backend operations
-- Added SSLCommerz sandbox payments for end-to-end transaction simulation
+- Built a full-stack rental marketplace with auth, rental CRUD, and request workflows
+- Added search, pagination, and admin management features
+- Integrated payments in sandbox mode for end-to-end transaction flow
+- Shipped a personal product with both frontend and backend ownership
 
 ---
 
-### 🛠️ Skills & Tools
+## Experience
 
-**Frontend**: React.js, Next.js, Redux Toolkit, RTK Query, Formik, Yup, Tailwind CSS, Bootstrap  
-**Backend**: Golang, Django, Node.js, Express.js, JWT, Microservices (Basic)  
-**Databases**: MongoDB, PostgreSQL (Basic), MySQL, Firebase  
-**Languages**: JavaScript, TypeScript, Python, Golang, C, C++  
-**Tools & Platforms**: Git, Docker, Linux, Jira, Slack, VS Code, Vercel, Netlify  
-**Soft Skills**: Leadership · Teamwork · Problem-Solving · Communication · Adaptability
+### Fullstack Developer — LeanCore Technologies
+**Oct 2025 – Present**
+
+- Building production-grade features across frontend and backend
+- Developing APIs with **Golang, Gin, GORM, and MySQL**
+- Working on secure, scalable business workflows and internal platform modules
+
+### Frontend Developer — LeanCore Technologies
+**Oct 2023 – Oct 2025**
+
+- Built and optimized UI modules using **Next.js, TypeScript, and Tailwind CSS**
+- Designed reusable components, advanced filtering, and pagination systems
+- Integrated REST APIs with **RTK Query** and **Redux Toolkit**
+- Delivered OTA features including booking flows, PNR management, issuing, and cancellations
+
+### Frontend Developer (Remote) — LSKIT
+**Sep 2022 – Jul 2023**
+
+- Enhanced UI and performance for an e-commerce platform using **React + Redux**
+- Built checkout-related flows and integrated **bKash** payment support
+- Improved responsive layouts and user-facing interactions
+
+### Junior Software Engineer — Xtreme Solution
+**Jan 2022 – Aug 2022**
+
+- Contributed to React Native and e-commerce projects
+- Supported reporting modules and Laravel-based enhancements
 
 ---
 
-### 🎓 Education
+## Tech stack
 
-**Diploma in Computer Engineering | Dinajpur Polytechnic Institute**  
-_CGPA: 3.92 (2016 – 2021)_
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-2563EB?style=flat-square)
+![Yup](https://img.shields.io/badge/Yup-111827?style=flat-square)
+
+### Backend
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+### Database & tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
-### 🏆 Achievements
+## Education
 
-- Improved OTA workflow efficiency by 30% through optimized UI/UX and API integrations
-- Built production-ready Golang (Gin + GORM) APIs with bulk Excel import for 5,000+ accounts
-- Delivered full-stack projects with cloud deployment and scalable architecture
-- Ranked 2nd in department with CGPA 3.92
+**Diploma in Computer Engineering** — Dinajpur Polytechnic Institute  
+**CGPA:** 3.92 / 4.00 *(2016 – 2021)*
 
 ---
 
-### 🌐 Connect With Me
+## Profiles & contact
 
-<p align="left">
-<a href="https://www.leetcode.com/majharul-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="majharul-web" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/majharul-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="majharul-web" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@majharuljony163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@majharuljony163" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15337229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15337229" height="30" width="40" /></a>
-<a href="https://fb.com/fb.majharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.majharul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-majharul-islam-a42b63200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-majharul-islam-a42b63200" height="30" width="40" /></a>
+- **LinkedIn:** [md-majharul-islam-a42b63200](https://linkedin.com/in/md-majharul-islam-a42b63200)
+- **LeetCode:** [majharul-web](https://www.leetcode.com/majharul-web)
+- **Codeforces:** [majharul-web](https://codeforces.com/profile/majharul-web)
+- **HackerRank:** [@majharuljony163](https://www.hackerrank.com/@majharuljony163)
+- **Stack Overflow:** [Profile](https://stackoverflow.com/users/15337229)
+- **Facebook:** [fb.majharul](https://fb.com/fb.majharul)
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=majharul-web&show_icons=true&theme=transparent&hide_border=true" alt="Majharul's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=majharul-web&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
-### ⚙️ Languages and Tools
-
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majharul-web&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majharul-web&show_icons=true&locale=en&layout=compact" alt="majharul-web" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majharul-web&show_icons=true&locale=en" alt="majharul-web" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majharul-web&" alt="majharul-web" /></p>
+<p align="center"><i>Open to impactful full-stack and frontend engineering opportunities.</i></p>
