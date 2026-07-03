@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://majharul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://drive.google.com/file/d/1s-5dAuqEBIiFd99p67RcLK7feC6xyxpN/view"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
-  <a href="mailto:majharul.live@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.leetcode.com/majharul-web"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://linkedin.com/in/md-majharul-islam-a42b63200"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -18,7 +18,7 @@
 
 I’m a **Full-Stack Developer with 4+ years of experience** building modern web applications across **travel-tech, e-commerce, rental platforms, and internal business systems**.
 
-My core strength is turning complex workflows into **fast, reliable, and intuitive user experiences** using **Next.js, React, TypeScript, Redux, and Tailwind CSS**. More recently, I’ve also been contributing on the backend with **Golang, Django, Node.js, Express.js, MySQL, PostgreSQL, and MongoDB**.
+My core strength is turning complex workflows into **fast, reliable, and intuitive user experiences** using **Next.js, React, TypeScript, Redux, and Tailwind CSS**. More recently, I’ve also been contributing on the backend with **Golang, Django, MySQL, and PostgreSQL**.
 
 I’m especially interested in roles where I can contribute to:
 - scalable product development
@@ -151,7 +151,7 @@ I’m especially interested in roles where I can contribute to:
 
 ## Profiles & contact
 
-- **LinkedIn:** [md-majharul-islam-a42b63200](https://linkedin.com/in/md-majharul-islam-a42b63200)
+- **LinkedIn:** [md-majharul-islam](https://www.linkedin.com/in/majharul-web/)
 - **LeetCode:** [majharul-web](https://www.leetcode.com/majharul-web)
 - **Codeforces:** [majharul-web](https://codeforces.com/profile/majharul-web)
 - **HackerRank:** [@majharuljony163](https://www.hackerrank.com/@majharuljony163)
